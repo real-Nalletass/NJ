@@ -23,7 +23,7 @@ namespace Journal
             {
                 MessageBox.Show("Please enter password..");
             }
-            else if (textBox1.Text == "anbj1401")
+            else if (textBox1.Text == "1234")
             {
                 Menu x = new Menu();
                 x.Show();
